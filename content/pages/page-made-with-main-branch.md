@@ -7,9 +7,43 @@ Hi there
 
  
 
-{{< resource 8353950d-8100-4736-bc1a-10bccfea0d08 >}}
+{{< resource uuid="8353950d-8100-4736-bc1a-10bccfea0d08" >}}
 
  
+
+yay, fixed, edit made with new branch
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< thopen >}}
+ 
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
  
 
