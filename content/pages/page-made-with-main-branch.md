@@ -11,7 +11,7 @@ Hi there
 
  
 
-yay, fixed, edit made with new branch
+yay, fixed, edit made with new branch, hmm weird js errors in console
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
  
