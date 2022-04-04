@@ -3,8 +3,8 @@ content_type: page
 title: A new page for a new site
 uid: 2e2a2251-3efe-4956-a9e4-004de7d78924
 ---
-Hello  
-  
+Hello
+
  
 
 {{< resource uuid="8353950d-8100-4736-bc1a-10bccfea0d08" >}}
@@ -13,7 +13,7 @@ Hello
 
  
 
- 
+dfdfe
 
 dkfjdkfj
 
