@@ -13,8 +13,6 @@ Hello
 
 {{% resource_link 25e18cbd-a095-4e8c-9c1e-f8614ecbe68d "137918 W2C.pdf" %}}
 
- 
-
 {{% resource_link bc040097-bc60-4282-a016-c43b7d470b7b "courses_with_resolveuid (2).csv" %}}
 
  
