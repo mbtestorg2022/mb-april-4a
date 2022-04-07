@@ -7,6 +7,20 @@ Hello
 
  
 
+{{% resource_link 65bf5083-d58b-4c64-b4af-ec80dd1bd4da "12tooth.dxf" %}}
+
+{{% resource_link fdc9cff7-8ce2-49d9-b209-d038586d39f2 "rescue_robot.mov" %}}
+
+{{% resource_link 25e18cbd-a095-4e8c-9c1e-f8614ecbe68d "137918 W2C.pdf" %}}
+
+ 
+
+{{% resource_link bc040097-bc60-4282-a016-c43b7d470b7b "courses_with_resolveuid (2).csv" %}}
+
+ 
+
+{{< resource uuid="8353950d-8100-4736-bc1a-10bccfea0d08" >}}
+
  
 
  
