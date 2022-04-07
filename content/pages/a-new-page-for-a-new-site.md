@@ -7,7 +7,23 @@ Hello
 
  
 
-{{< resource uuid="8353950d-8100-4736-bc1a-10bccfea0d08" >}}
+12tooth.dxf
+
+ 
+
+137918 W2C.pdf
+
+ 
+
+Screen Shot 2022-03-27 at 1.11.05 PM.png
+
+ 
+
+rescue\_robot.mov
+
+ 
+
+ 
 
  
 
@@ -23,60 +39,54 @@ dkfjdkfj
 
  
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
  
-{{< thclose >}}{{< thopen >}}
+
  
-{{< thclose >}}{{< thopen >}}
+
  
-{{< thclose >}}{{< thopen >}}
+
  
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+
 1
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
 a
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
 2
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
 b
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
 3
-{{< tdclose >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
  
-{{< tdclose >}}{{< tdopen >}}
+
 c
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
