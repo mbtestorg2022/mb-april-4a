@@ -7,7 +7,13 @@ uid: 2e2a2251-3efe-4956-a9e4-004de7d78924
 
 Hello
 
-{{% resource_link 65bf5083-d58b-4c64-b4af-ec80dd1bd4da "12tooth.dxf" %}}
+{{% resource_link 65bf5083-d58b-4c64-b4af-ec80dd1bd4da "12tooth.dxf" %}}{{% resource_link 501eb428-87ac-47c8-b0fc-0fadf913c7f3 "Screen Shot 2022-03-27 at 1.07.44 PM.png" %}}
+
+ 
+
+{{< resource uuid="8353950d-8100-4736-bc1a-10bccfea0d08" >}}
+
+ 
 
 {{% resource_link fdc9cff7-8ce2-49d9-b209-d038586d39f2 "rescue_robot.mov" %}}
 
