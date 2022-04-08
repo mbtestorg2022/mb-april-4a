@@ -3,6 +3,8 @@ content_type: page
 title: A new page for a new site
 uid: 2e2a2251-3efe-4956-a9e4-004de7d78924
 ---
+{{< resource uuid="71230c34-1361-47e0-9b15-5c17204604ee" >}}
+
 {{% resource_link fdc9cff7-8ce2-49d9-b209-d038586d39f2 "rescue_robot.mov" %}}
 
 Hello
