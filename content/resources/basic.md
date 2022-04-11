@@ -8,8 +8,8 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
-resourcetype: Other
+license: https://creativecommons.org/licenses/by/4.0/
+resourcetype: Video
 title: basic.mp4
 uid: 9d66d497-843e-4983-9dff-fd8d7956cf15
 video_files:
