@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 1f7e7a96-ef0d-4ab0-b32e-5f9a5548884c
+  name: Main branch page
+  url: /pages/page-made-with-main-branch
+  weight: 10
+- identifier: 2e2a2251-3efe-4956-a9e4-004de7d78924
+  name: page two link
+  url: /pages/a-new-page-for-a-new-site
+  weight: 20
