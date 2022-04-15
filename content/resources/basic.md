@@ -20,6 +20,7 @@ video_files:
 video_metadata:
   video_speakers: ''
   video_tags: ''
+  youtube_description: This is a description that will be uploaded to Youtube, yay!
   youtube_id: sdfsdf
 ---
 ***Video body***
