@@ -11,15 +11,20 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: small.mp4
+title: This video description is too long. This video description is too long. This
+  video description is too long. This video description is too long. This video description
+  is too long. This video description is too long. This video description is too long.
+  This video description is too long. This video description is too long. This video
+  description is too long. This video description is too long. This video description
+  is too long. This video description is too long. This video description is too long.
 uid: 9f94e579-bee6-4d91-9aff-508cf1e463a9
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/ulPWKn5hJ3w/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
-  youtube_description: This is the new official Youtube description!
+  youtube_description: 'This is the new official Youtube description!  '
   youtube_id: ulPWKn5hJ3w
 ---
