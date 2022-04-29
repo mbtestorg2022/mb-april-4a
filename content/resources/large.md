@@ -2,7 +2,7 @@
 content_type: resource
 description: A video! ! !
 draft: false
-file: null
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-april-4a/large_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
