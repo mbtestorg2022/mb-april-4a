@@ -7,3 +7,7 @@ leftnav:
   name: page two link
   url: /pages/a-new-page-for-a-new-site
   weight: 20
+- identifier: 3c2a6275-cfb8-48bf-a08b-61706f77dd8c
+  name: Hi Page
+  url: /pages/hi
+  weight: 30
