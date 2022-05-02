@@ -4,6 +4,16 @@ draft: false
 title: hi
 uid: 3c2a6275-cfb8-48bf-a08b-61706f77dd8c
 ---
+Video{{% resource_link "48b2a584-92ee-483b-a656-f7f82f9843cd" "large.mp4" %}}
+
+ 
+
+Embed: 
+
+{{< resource uuid="48b2a584-92ee-483b-a656-f7f82f9843cd" >}}
+
+ 
+
 ""Oh no, I just used double quotes. in the body!""
 
 ""Oh no, I just used partial double quotes. in the body!"
