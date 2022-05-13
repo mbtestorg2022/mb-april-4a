@@ -3,16 +3,21 @@
   "year": "",
   "level": [],
   "topics": [],
+  "s3_path": "courses/mb-april-4a",
+  "url_path": "mb-april-4a",
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "mb-april-4a"
+    "content": [
+      "f457d431-4e6f-5109-4f49-b93322af4b0e"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "501eb428-87ac-47c8-b0fc-0fadf913c7f3",
     "website": "mb-april-4a"
   },
   "course_title": "Time Travel 101 ABC",
+  "publish_metadata": "",
   "course_description": "Hi",
   "department_numbers": [
     "2"
