@@ -6,9 +6,8 @@ uid: 3c2a6275-cfb8-48bf-a08b-61706f77dd8c
 ---
 Video{{% resource_link "48b2a584-92ee-483b-a656-f7f82f9843cd" "large.mp4" %}}
 
- 
+{{% resource_link "a265b519-8b99-48b2-ae89-be4a38db88d5" "file_in_file_folder. {% oops }  png" %}}
 
-A new link that I'm going to mess up: {{% resource_link "a265b519-8b99-48b2-ae89-be4a38db88d5" "file_in_file_folder.png {{< sup2 />}} {{< sup3 >}} oops " %}} 
  
 
 OKay, looks better.
