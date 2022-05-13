@@ -8,6 +8,12 @@ Video{{% resource_link "48b2a584-92ee-483b-a656-f7f82f9843cd" "large.mp4" %}}
 
  
 
+A new link that I'm going to mess up: {{% resource_link "a265b519-8b99-48b2-ae89-be4a38db88d5" "file_in_file_folder.png" %}}
+
+ 
+
+ 
+
 Embed: 
 
 {{< resource uuid="48b2a584-92ee-483b-a656-f7f82f9843cd" >}}
