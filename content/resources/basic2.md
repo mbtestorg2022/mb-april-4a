@@ -15,9 +15,9 @@ resourcetype: Video
 title: basic.mp4
 uid: a20c4ac8-9284-4d08-b42c-de7e2cc970ae
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/mb-april-4a/1vjn05z2wEBRxuttEjI-CZ5hcmejmAcrc_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/GfjkPmTrhwE/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/mb-april-4a/1vjn05z2wEBRxuttEjI-CZ5hcmejmAcrc_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
