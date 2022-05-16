@@ -16,11 +16,11 @@ title: basic.mp4
 uid: a20c4ac8-9284-4d08-b42c-de7e2cc970ae
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/WqvdLbLrU5Q/default.jpg
+  video_thumbnail_file: https://img.youtube.com/vi/GfjkPmTrhwE/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: WqvdLbLrU5Q
+  youtube_id: GfjkPmTrhwE
 ---
