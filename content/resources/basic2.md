@@ -1,8 +1,8 @@
 ---
 body: ''
 content_type: resource
-description: ''
-draft: ''
+description: sdfsdf
+draft: false
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-april-4a/basic_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: basic.mp4
 uid: a20c4ac8-9284-4d08-b42c-de7e2cc970ae
