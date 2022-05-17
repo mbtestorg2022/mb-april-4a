@@ -4,8 +4,7 @@ draft: false
 title: hi
 uid: 3c2a6275-cfb8-48bf-a08b-61706f77dd8c
 ---
-{{% resource_link "uuid" "Helod " %}} ffdf{{< sup 2 >}}{{% resource_link "uuid" "byyyyee" %}}
-
+{{% resource_link "uuid" "Helo {{< sup fff2 >}} bye" %}}  
 \=========
 
 OKAY? {{% resource_link "bc040097-bc60-4282-a016-c43b7d470b7b" "courses_with_resolveuid \"(2)\". \".csv" %}}
@@ -28,7 +27,7 @@ Video{{% resource_link "48b2a584-92ee-483b-a656-f7f82f9843cd" "large.mp4" %}}
 
  
 
-Bad link: {{% resource_link "a265b519-8b99-48b2-ae89-be4a38db88d5" "file_in_file_folder.png {{% sup2 }} oops " %}}       
+Bad link: {{% resource_link "a265b519-8b99-48b2-ae89-be4a38db88d5" "file_in_file_folder.png {{% sup2 }} oops " %}}        
  
 
 Bad link2: {{% resource_link "a265b519-8b99-48b2-ae89-be4a38db88d5" "file_in_file_folder.png sup2 }} oops" %}}
