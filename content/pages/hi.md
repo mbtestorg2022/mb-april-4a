@@ -4,7 +4,7 @@ draft: false
 title: hi
 uid: 3c2a6275-cfb8-48bf-a08b-61706f77dd8c
 ---
-{{% resource_link "uuid" "Helo {{< sup fff2 >}} bye" %}}  
+{{% resource_link "uuid" "Helo {{< sup df2 >}} bye" %}} {{< sup 2 >}}{{% resource_link "uuid" "Bye {{< supdf 2 >}} bye" %}}   
 \=========
 
 OKAY? {{% resource_link "bc040097-bc60-4282-a016-c43b7d470b7b" "courses_with_resolveuid \"(2)\". \".csv" %}}
