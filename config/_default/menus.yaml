@@ -11,3 +11,7 @@ leftnav:
   name: Hi Page
   url: /pages/hi
   weight: 30
+- identifier: 0dade067-530b-49dc-8d5d-b6d73f60e821
+  name: LFF
+  url: /pages/link-to-file-in-folder-page
+  weight: 40
