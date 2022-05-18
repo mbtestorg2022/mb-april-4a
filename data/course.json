@@ -4,7 +4,7 @@
   "level": [],
   "topics": [],
   "s3_path": "courses/mb-april-4a",
-  "url_path": "mb-april-4a",
+  "url_path": "courses/mb-april-4a",
   "legacy_uid": "",
   "instructors": {
     "content": [
@@ -23,7 +23,7 @@
     "2"
   ],
   "extra_course_numbers": "",
-  "primary_course_number": "mb-oct07-b",
+  "primary_course_number": "3.1",
   "course_image_thumbnail": {
     "content": "501eb428-87ac-47c8-b0fc-0fadf913c7f3",
     "website": "mb-april-4a"
