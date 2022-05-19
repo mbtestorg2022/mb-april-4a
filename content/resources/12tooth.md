@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-1-time-travel-101-abc-never-2025a/12tooth.dxf
+file: /courses/3-1-time-travel-101-abc-never-2025b/12tooth.dxf
 file_type: application/dxf
 image_metadata:
   caption: ''
