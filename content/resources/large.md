@@ -2,7 +2,7 @@
 content_type: resource
 description: A video! ! !
 draft: false
-file: /courses/3-1-time-travel-101-abc-never-2025/large_360p_16_9.mp4
+file: /courses/3-1-time-travel-101-abc-never-2025a/large_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
