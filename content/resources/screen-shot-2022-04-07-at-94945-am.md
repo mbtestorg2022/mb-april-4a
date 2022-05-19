@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-1-time-travel-101-abc-never-2025/screen-shot-2022-04-07-at-94945-am.png
+file: /courses/3-1-time-travel-101-abc-never-2025a/screen-shot-2022-04-07-at-94945-am.png
 file_type: image/png
 image_metadata:
   caption: ''

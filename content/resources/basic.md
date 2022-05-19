@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a description okay
 draft: false
-file: /courses/3-1-time-travel-101-abc-never-2025/basic.mp4
+file: /courses/3-1-time-travel-101-abc-never-2025a/basic.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
