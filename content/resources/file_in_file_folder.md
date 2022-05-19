@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-april-4a/file_in_file_folder.png
+file: /courses/3-1-time-travel-101-abc-never-2025/file_in_file_folder.png
 file_type: image/png
 image_metadata:
   caption: ''
