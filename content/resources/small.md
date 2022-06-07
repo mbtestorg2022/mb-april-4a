@@ -1,4 +1,5 @@
 ---
+body: ''
 content_type: resource
 description: ''
 draft: false

@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: ''
+draft: ''
 file: /courses/3-1-time-travel-101-abc-never-2025b/courses_with_resolveuid-2.csv
 file_type: text/csv
 image_metadata:
