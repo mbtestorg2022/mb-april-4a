@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-description: sdfsdf
+description: ''
 draft: false
 file: /courses/3-1-time-travel-101-abc-never-2025b/basic_360p_16_9.mp4
 file_type: video/mp4
@@ -24,3 +24,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: GfjkPmTrhwE
 ---
+sdfsdf
