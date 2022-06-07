@@ -1,7 +1,9 @@
 ---
+body: ''
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-april-4a/12tooth.dxf
+draft: ''
+file: /courses/3-1-time-travel-101-abc-never-2025b/12tooth.dxf
 file_type: application/dxf
 image_metadata:
   caption: ''

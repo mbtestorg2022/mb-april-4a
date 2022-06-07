@@ -1,7 +1,9 @@
 ---
+body: ''
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-april-4a/courses_with_resolveuid-2.csv
+draft: ''
+file: /courses/3-1-time-travel-101-abc-never-2025b/courses_with_resolveuid-2.csv
 file_type: text/csv
 image_metadata:
   caption: ''

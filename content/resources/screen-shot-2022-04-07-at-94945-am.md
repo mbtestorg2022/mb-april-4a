@@ -1,7 +1,9 @@
 ---
+body: ''
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-april-4a/screen-shot-2022-04-07-at-94945-am.png
+draft: ''
+file: /courses/3-1-time-travel-101-abc-never-2025b/screen-shot-2022-04-07-at-94945-am.png
 file_type: image/png
 image_metadata:
   caption: ''

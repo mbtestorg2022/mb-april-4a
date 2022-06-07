@@ -1,8 +1,9 @@
 ---
+body: ''
 content_type: resource
-description: A video! ! !
+description: ''
 draft: false
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-april-4a/large_360p_16_9.mp4
+file: /courses/3-1-time-travel-101-abc-never-2025b/large_360p_16_9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -22,3 +23,4 @@ video_metadata:
   video_tags: ''
   youtube_id: ''
 ---
+A video! ! !

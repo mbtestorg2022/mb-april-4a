@@ -1,7 +1,9 @@
 ---
+body: ''
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/gdrive_uploads/mb-april-4a/1W_Xlm1pWsaW_sLikyIIZtsgoxi5CnCu4/rescue_robot.mov
+draft: ''
+file: /gdrive_uploads/mb-april-4a/1W_Xlm1pWsaW_sLikyIIZtsgoxi5CnCu4/rescue_robot.mov
 file_type: video/quicktime
 image_metadata:
   caption: ''

@@ -1,8 +1,9 @@
 ---
+body: ''
 content_type: resource
 description: ''
 draft: false
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/gdrive_uploads/mb-april-4a/1fRQhOB99Cg4P6wbDGSTOZCYpw2Gxn572/small.mp4
+file: /gdrive_uploads/mb-april-4a/1fRQhOB99Cg4P6wbDGSTOZCYpw2Gxn572/small.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''

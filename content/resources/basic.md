@@ -1,8 +1,9 @@
 ---
+body: ''
 content_type: resource
-description: This is a description okay
+description: ''
 draft: false
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mb-april-4a/basic.mp4
+file: /courses/3-1-time-travel-101-abc-never-2025b/basic.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -44,3 +45,5 @@ f
  
 
 {{< resource uuid="71230c34-1361-47e0-9b15-5c17204604ee" >}}
+
+This is a description okay
