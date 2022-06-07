@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: ''
+draft: ''
 file: /courses/3-1-time-travel-101-abc-never-2025b/12tooth.dxf
 file_type: application/dxf
 image_metadata:

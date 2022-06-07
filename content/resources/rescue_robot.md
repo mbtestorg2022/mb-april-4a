@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: ''
+draft: ''
 file: /gdrive_uploads/mb-april-4a/1W_Xlm1pWsaW_sLikyIIZtsgoxi5CnCu4/rescue_robot.mov
 file_type: video/quicktime
 image_metadata:
